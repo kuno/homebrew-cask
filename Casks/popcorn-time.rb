@@ -1,8 +1,8 @@
 cask :v1 => 'popcorn-time' do
-  version '0.3.5.4'
-  sha256 '8b3427661197a811106e726aec4bed0db60f183edfb0b4b8dfb13e9c4dd791a9'
+  version '0.3.6'
+  sha256 '48419eaa34ab31ca071e010ff49c065ba23ad06bd8f1b50349308980e937dfeb'
 
-  url "https://cdn.popcorntime.io/build/Popcorn-Time-#{version.gsub(/beta-/, '')}-Mac.dmg"
+  url "http://popcorn.obsidian.goender.net/build/Popcorn-Time-#{version.gsub(/beta-/, '')}-Mac.dmg"
   homepage 'https://popcorntime.io'
   license :unknown
 
