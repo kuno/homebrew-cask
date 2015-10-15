@@ -1,6 +1,6 @@
 cask :v1 => 'futuniuniu' do
-  version '3.4.2_090201'
-  sha256  '72605f586d124cac852ff670517f9c8669d3a4c60c1dfad00feedfac8f1c74bd'
+  version '3.5.2_093002'
+  sha256  '90b25107e0f8344cdcd6cb42f341ee4df539885537671b8ac1ce409083dffeed'
 
   url "https://www.futu5.com/client/nn/mac/FTNNForMac_#{version}.dmg"
   name '富途牛牛'
